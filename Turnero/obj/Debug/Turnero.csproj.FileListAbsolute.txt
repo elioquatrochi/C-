@@ -1,0 +1,16 @@
+D:\VisualEstudio\Proyecto\Turnero\bin\Debug\Turnero.exe.config
+D:\VisualEstudio\Proyecto\Turnero\bin\Debug\Turnero.exe
+D:\VisualEstudio\Proyecto\Turnero\bin\Debug\Turnero.pdb
+D:\VisualEstudio\Proyecto\Turnero\obj\Debug\Turnero.frmPrincipal.resources
+D:\VisualEstudio\Proyecto\Turnero\obj\Debug\Turnero.Turnero.resources
+D:\VisualEstudio\Proyecto\Turnero\obj\Debug\Turnero.Properties.Resources.resources
+D:\VisualEstudio\Proyecto\Turnero\obj\Debug\Turnero.csproj.GenerateResource.Cache
+D:\VisualEstudio\Proyecto\Turnero\obj\Debug\Turnero.exe
+D:\VisualEstudio\Proyecto\Turnero\obj\Debug\Turnero.pdb
+D:\VisualEstudio\Proyecto\Turnero\obj\Debug\Turnero.Form1.resources
+D:\VisualEstudio\Proyecto\Turnero\obj\Debug\Turnero.csprojResolveAssemblyReference.cache
+D:\VisualEstudio\Proyecto\Turnero\obj\Debug\Turnero.Contador.resources
+D:\VisualEstudio\Proyecto\Turnero\obj\Debug\Turnero.AdminLogin.resources
+D:\VisualEstudio\Proyecto\Turnero\obj\Debug\Turnero.RegistroUsuario.resources
+D:\VisualEstudio\Proyecto\Turnero\obj\Debug\Turnero.Documentacion.resources
+D:\VisualEstudio\Proyecto\Turnero\obj\Debug\Turnero.NuevoDoc.resources
